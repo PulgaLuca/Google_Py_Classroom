@@ -33,10 +33,6 @@ coursework_name = ‘Name of the Task’
 ```
 
 ## 🛠️ Requirements
-Python  3.11
-Access to a Google Classroom account
-Google Drive API enabled
-
-## ⚠️ Notes
-Make sure you have the necessary permissions on Google Classroom and Google Drive
-First start-up will require authentication with a Google account
+- Python  3.14
+- Access to a Google Classroom account
+- Google Drive API enabled
